@@ -3,10 +3,24 @@
 
 Data was fetched from the GitHub repository using Microsoft Fabric Data Factory to transfer data to the fabric.
 
+Objectives of Analysis
+Transaction data analysis aims to provide important insights into customer behavior, product popularity, sales patterns, and operational efficiency. It also aims to improve inventory management, enhance decision-making processes, and identify sales opportunities.
+
+## Requirements:
+- Collect, clean, and prepare data
+- Analyze monthly and daily sales patterns
+- Identify high-performance days and times
+- Develop engaging offer reports
+- Create interactive dashboards
+
+## Data Source
+[Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=coffee%20shop) Data Warehouse
+Number of records used: 149,116
+
 <img width="105" alt="pipline" src="https://github.com/user-attachments/assets/fec1afa8-d51e-46fc-8fa3-f80dc3f49940" />
-
+ت
 Data Transformation
-
+مع
 Silver Lakehouse 
 
 ```python
